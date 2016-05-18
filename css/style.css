@@ -1,0 +1,17 @@
+.space{
+	margin: 5px 0px;
+}
+
+.big{
+	margin: 50px;
+	font-size: 50px;
+	min-width: 50px;
+	max-width: 80px;
+}
+
+.sized{
+	min-width: 280px;
+	max-width: 290px;
+	position: relative;
+	margin: auto;
+}
